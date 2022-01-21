@@ -6,6 +6,6 @@ My focus is on Machine Learning.
 
 I also have a Bachelor's degree in Mechanical Engineering (In addition to my CS-Bachelor).
 
-Fitting this perfectly, I'm working on a project which does research on combining Machine Learning and Cybernetics.
+Fitting this perfectly, I'm working on a project which does research on combining Machine Learning and Control Engineering.
 
 You can reach me at michael.skowronek.91@gmail.com.
